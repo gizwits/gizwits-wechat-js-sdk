@@ -10,7 +10,5 @@ v0.2.0
 * Add object Connection
 * Call onConnected callback function when received subscribe response
 * Update demo page
-
-## Change log v0.1.1 (2016/05)
 * Set SocketType default value to 'ssl_socket'
 * Remove SocketType from demo html
