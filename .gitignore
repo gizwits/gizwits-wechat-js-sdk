@@ -1,0 +1,12 @@
+.DS_Store
+.classpath
+.setting
+.idea
+*.iml
+doc
+build
+dist
+export
+build.properties
+Main.java
+
