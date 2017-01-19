@@ -1,9 +1,12 @@
 gizwits-ws-sdk
 =======
-v0.2.0
+v0.3.0
 
 ## Description
 * A javascript SDK for Gizwits websocket.
+
+## Change log v0.3.0 (2017/01)
+* Update for new m2m_ws protocol: read with variable datapoint
 
 ## Change log v0.2.0 (2016/06)
 * Update for new m2m_ws protocol: login, subscribe
